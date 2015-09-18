@@ -1,0 +1,3 @@
+
+IPdstReco is used to produced pdsts at RCF. This will not compile without PHENIX OFFLINE_MAIN. If the analysis is not done on RCF, this needs to taken out of compilation.
+
